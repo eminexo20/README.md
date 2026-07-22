@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Emin Balammədov</h2>
-<p align="center">Computer Engineering Student | Frontend Developer & Data Analyst</p>
+<p align="center">Computer Engineering Student | Frontend Developer</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/emin-balamm%C9%99dov" target="_blank">
@@ -17,9 +17,8 @@
 
 ### 👨‍💻 About Me
 * 🎓 3rd-year **Computer Engineering** student at Western Caspian University[cite: 1].
-* 🚀 Passionate about building responsive web applications using **React.js, JavaScript, and HTML/CSS**[cite: 1].
-* 📊 Experienced in data analysis utilizing **Python** and **Power BI**.
-* 🤖 Deeply interested in AI tools, automated engineering workflows, and modern tech ecosystems[cite: 1].
+* 🚀 Passionate about building responsive, scalable, and user-centric web applications using modern frontend technologies[cite: 1].
+* 💡 Focused on crafting high-quality UI/UX and bringing innovative design ideas to life[cite: 1].
 
 ---
 
@@ -32,13 +31,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
-
-**Data & Analytics**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 **Tools & Workflow**
